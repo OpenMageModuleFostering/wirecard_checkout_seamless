@@ -24,7 +24,7 @@ class WirecardCEE_QMore_Module extends WirecardCEE_Stdlib_Module_ModuleAbstract 
      * @return Array
      */
     public static final function getConfig() {
-        return include Mage::getBaseDir('code') . '/local/Wirecard/QMore/Config/user.config.php';
+        return include Mage::getBaseDir('code') . '/local/Wirecard/CheckoutSeamless/QMore/Config/user.config.php';
     }
 
     /**
@@ -34,6 +34,6 @@ class WirecardCEE_QMore_Module extends WirecardCEE_Stdlib_Module_ModuleAbstract 
      * @return Array
      */
     public static final function getClientConfig() {
-        return include Mage::getBaseDir('code') . '/local/Wirecard/QMore/Config/client.config.php';
+        return include Mage::getBaseDir('code') . '/local/Wirecard/CheckoutSeamless/QMore/Config/client.config.php';
     }
 }
