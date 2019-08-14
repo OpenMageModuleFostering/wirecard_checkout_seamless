@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package>
+    <name>wirecard_checkout_seamless</name>
+    <version>4.0.2</version>
+    <stability>stable</stability>
+    <license>GNU General Public License Version 2 (GPLv2)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Integration of all popular payment methods seamlessly and PCI DSS compliant into your online shop.</summary>
+    <description>Wirecard Checkout Seamless is designed to meet the ambitious demands of merchants offering a wide range of payment methods while at the same time fulfilling PCI DSS compliance. The interface is integrated seamlessly into the online shop and allows a customized configuration of the payment process (cross-selling and up-selling) based on your business. &#xD;
+Wirecard Checkout Seamless offers:&#xD;
+National and international payment methods: credit cards, debit cards, online banking payments, mobile payment solutions and alternative payment methods.&#xD;
+One interface for all payment methods.&#xD;
+More than 120 currencies.&#xD;
+Input fields for payment data are directly integrated into the online shop (seamlessly integrated interface).&#xD;
+Fields can be embedded in any existing form.&#xD;
+Suitable for cross-selling and up-selling: items and services may be added to the shopping basket also after entering the payment data.&#xD;
+Comprehensive range of effective fraud prevention tools.&#xD;
+PCI DSS 3 SAQ A or SAQ A-EP compliant.&#xD;
+Easy to add new payment methods, additional features, languages and currencies, etc.&#xD;
+Web interface for managing payments (approvals, cancelations, credits, etc.).&#xD;
+Benefit from Wirecard Bank&#xB4;s license to conclude credit card acceptance contracts (acquiring) and issue credit cards.&#xD;
+With Wirecard Collecting only a single contract is required for payouts within various payment methods.&#xD;
+Support of recurring payments (subscriptions, one-click checkout).&#xD;
+Our Online Guides provide technical documentation, installation and configuration instructions for the plugin as well as further information on payment methods and additional features: https://integration.wirecard.at/</description>
+    <notes>initial release</notes>
+    <authors><author><name>WirecardCEE</name><user>MAG002460406</user><email>shoplogins@wirecard.com</email></author></authors>
+    <date>2016-01-27</date>
+    <time>10:00:00</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.4.0</min><max>5.6.0</max></php></required></dependencies>
+</package>

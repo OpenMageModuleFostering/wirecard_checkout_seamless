@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/wirecard_checkout_seamless",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-Version-2-(GPLv2)",
+    "homepage": "",
+    "description": "Integration of all popular payment methods seamlessly and PCI DSS compliant into your online shop.",
+    "authors": [
+    {
+        "name": "WirecardCEE",
+        "email": "shoplogins@wirecard.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
