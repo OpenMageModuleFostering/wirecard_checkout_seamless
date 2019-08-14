@@ -74,10 +74,6 @@ class Wirecard_CheckoutSeamless_ProcessingController extends Mage_Core_Controlle
     {
         $postData = $this->getRequest()->getPost();
 
-        /** @var Wirecard_CheckoutSeamless_Helper_Data $helper */
-        $helper = Mage::helper('wirecard_checkoutseamless');
-
-        $helper->log(__METHOD__ . ':' . print_r($postData, true));
         if (!empty($postData) && isset($postData['payment']) && !empty($postData['payment'])) {
             $payment = $postData['payment'];
             if (!$helper->getConfigData('ccard/pci3_dss_saq_a_enable')) {
