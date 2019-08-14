@@ -33,7 +33,7 @@
 class Wirecard_CheckoutSeamless_Helper_Data extends Mage_Payment_Helper_Data
 {
 
-    protected $_pluginVersion = '4.0.2';
+    protected $_pluginVersion = '4.0.3';
     protected $_pluginName = 'Wirecard/CheckoutSeamless';
 
     /**
@@ -201,7 +201,7 @@ class Wirecard_CheckoutSeamless_Helper_Data extends Mage_Payment_Helper_Data
         } catch (Exception $e) {
 
             //communication with dataStorage failed. we choose a none dataStorage fallback
-            $this->log(__METHOD__ . ':' . $error->getMessage(), Zend_Log::ERR);
+            $this->log(__METHOD__ . ':' . $e->getMessage(), Zend_Log::ERR);
 
             return false;
         }
