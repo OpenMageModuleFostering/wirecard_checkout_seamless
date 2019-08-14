@@ -373,16 +373,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -456,16 +446,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -539,16 +519,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -622,16 +592,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -705,16 +665,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -788,16 +738,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -871,16 +811,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -954,16 +884,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1037,16 +957,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1120,16 +1030,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1203,16 +1103,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1286,16 +1176,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1369,16 +1249,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1452,16 +1322,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1535,16 +1395,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1618,16 +1468,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1701,16 +1541,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1784,16 +1614,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1867,16 +1687,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -1950,16 +1760,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2033,16 +1833,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2116,16 +1906,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2208,16 +1988,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2320,16 +2090,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2412,15 +2172,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable</source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2514,16 +2265,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>
@@ -2597,16 +2338,6 @@
                             <show_in_store>1</show_in_store>
                             <comment>The name for the payment method to be displayed in the online shop.</comment>
                         </title>
-                        <iframe>
-                            <label>Display as iframe</label>
-                            <frontend_type>select</frontend_type>
-                            <sort_order>50</sort_order>
-                            <source_model>adminhtml/system_config_source_enabledisable
-                            </source_model>
-                            <show_in_default>1</show_in_default>
-                            <show_in_website>1</show_in_website>
-                            <show_in_store>1</show_in_store>
-                        </iframe>
                         <allowspecific translate="label">
                             <label>Payment method available for</label>
                             <frontend_type>allowspecific</frontend_type>

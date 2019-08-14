@@ -237,7 +237,7 @@ function processResponse(response) {
 
     } else {
 
-        if (payment.currentMethod.substr(26) == 'cc' || payment.currentMethod.substr(26) == 'ccMoto' || payment.currentMethod.substr(26) == 'maestro') {
+        if (payment.currentMethod.substr(26) == 'cc' || payment.currentMethod.substr(26) == 'ccMoto') {
 
             // pci3 mode
             if ($(payment.currentMethod + '_pan') === null)
@@ -258,9 +258,7 @@ function html_entity_decode(str) {
 }
 
 function prepareSubmittedFields(response) {
-
-    if (payment.currentMethod.substr(26) == 'cc' || payment.currentMethod.substr(26) == 'ccMoto' || payment.currentMethod.substr(26) == 'maestro') {
-
+    if (payment.currentMethod.substr(26) == 'cc' || payment.currentMethod.substr(26) == 'ccMoto') {
         enterAnonData(response.paymentInformation);
         $(payment.currentMethod + '_saved_data').show();
         $(payment.currentMethod + '_new_data').hide();
@@ -304,6 +302,11 @@ function prepareSubmittedFields(response) {
                 break;
         }
     });
+
+    if (payment.currentMethod.substr(26) == 'sepadd' || payment.currentMethod.substr(26) == 'paybox'
+        || payment.currentMethod.substr(26) == 'voucher' || payment.currentMethod.substr(26) == 'giropay') {
+        emptyPaymentFields();
+    }
 }
 
 function changePaymentData() {
@@ -325,18 +328,18 @@ function changePaymentData() {
 
 function emptyPaymentFields() {
     $j('#payment_form_' + payment.currentMethod + ' .no-submit').each(function (el) {
-        el.value = '';
+        this.value = '';
     });
 }
 
 function emptyHiddenFields() {
     $j('#payment_form_' + payment.currentMethod + ' .wcs-anon-data-hidden').each(function (el) {
-        el.value = '';
+        this.value = '';
     });
 }
 
 function enterAnonData(data) {
     $j('#' + payment.currentMethod + '_saved_data span').each(function (el) {
-        el.innerHTML = data[el.id];
+        this.innerHTML = data[this.id];
     });
 }
